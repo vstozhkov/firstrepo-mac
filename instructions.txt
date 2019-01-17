@@ -1,0 +1,2 @@
+Watch "Demo: Working with Git" in order to get instructions how 
+to add untracked files to commit 
